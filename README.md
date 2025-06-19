@@ -28,6 +28,8 @@ Start/Stop animation with a button
 
 Text panel showing all filtered values in real-time
 
+filter.png
+
 🧠 Purpose
 The goal of this project is to test sensor accuracy, compare filtering methods, and analyze signal noise. This is especially useful in robotics, IoT, and embedded systems where noisy sensor data is common.
 
